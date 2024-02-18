@@ -1,5 +1,6 @@
 import discord
 import re
+install requests
 import requests
 import imagehash
 from io import BytesIO
